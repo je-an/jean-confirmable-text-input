@@ -1,0 +1,31 @@
+{
+  "name": "jean-confirmable-text-input",
+  "version": "1.0.0",
+  "description": "Provides a text input together with the capability to confirm the input as soon as ready",
+  "main": ".js",
+  "scripts": {
+    "test": "open spec/spec-runner.html in browser"
+  },
+  "keywords": "",
+  "author": "Jeremias Andris",
+  "license": "MIT",
+  "dependencies": {
+    "jean-amd": "latest",
+    "jean-button": "^1.0.3",
+    "jean-dom-element": "latest",
+    "jean-dom-util": "latest",
+    "jean-failure": "latest",
+    "jean-inheritance": "latest",
+    "jean-merge": "latest",
+    "jean-text-input": "^2.1.0",
+    "jean-type-check": "latest"
+  },
+  "devDependencies": {
+    "require-css": "^0.1.10",
+    "text": "github:requirejs/text"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/je-an/jean-confirmable-text-input.git"
+  }
+}

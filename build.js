@@ -1,7 +1,7 @@
 ({
     baseUrl: '.',
     out: 'dist/jean-confirmable-text-input.js',
-    optimize: 'none',
+    optimize: 'uglify2',
     name: 'node_modules/jean-amd/dist/jean-amd',
     include: ["src/ConfirmableTextInput"],
     wrap: {

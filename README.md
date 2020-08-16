@@ -48,6 +48,7 @@ require(["path/to/ConfirmableTextInput"], function(ConfirmableTextInput){
 - **options**: `Object` - `optional` - options object
 - **options.id**: `String` - `optional` - id of element
 - **options.buttonName**: `String` - `optional` - Name  of the button
+- **options.isButtonHighlighted**: `Boolean` - `optional` - True if button shall be highlighted after click, false otherwise
 - **options.onValueChanged**: `Function` - `optional` - Get's called if the value changed
 - **options.onValueConfirmed**: `Function` - `optional` - Get's called if the user is pushing the button
 

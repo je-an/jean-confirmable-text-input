@@ -18,6 +18,7 @@ define(
          * @param {Object} options - options object
          * @param {String} options.id - id of element
          * @param {String="Ok"} options.buttonName - Name  of the button
+         * @param {Boolean=false} options.isButtonHighlighted - True if button shall be highlighted after click, false otherwise
          * @param {Function} options.onValueChanged - Get's called if the value changed
          * @param {Function} options.onValueConfirmed - Get's called if the user is pushing the button
          */

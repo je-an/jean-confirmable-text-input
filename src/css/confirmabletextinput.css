@@ -1,3 +1,6 @@
-.jean-confirmable-text-input{
-    
+.jean-confirmable-text-input input {
+  padding: 5px;
+}
+.jean-confirmable-text-input .jean-button {
+  margin-top: 3px;
 }

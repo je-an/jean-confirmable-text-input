@@ -1,6 +1,6 @@
 {
   "name": "jean-confirmable-text-input",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Provides a text input together with the capability to confirm the input as soon as ready",
   "main": ".js",
   "scripts": {
